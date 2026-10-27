@@ -48,7 +48,7 @@
     "@tscircuit/mm": "^0.0.9"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.9",
+    "@biomejs/biome": "2.5.15",
     "bun-types": "^1.4.0",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
